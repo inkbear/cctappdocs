@@ -37,7 +37,8 @@ The page is assembled from the following components:
 
 To build the CCT:
 
-1. Upload the audio files, image files, and .js file using the Media Manager 
+1. Prepare the images with at 1280px x 1024px on a background of #7488de.
+1. Upload the audio files, image files, and .js file using the Media Manager. 
 making note of the folder path.
 1. Enter the CCT metadata using the CCT admin
 
